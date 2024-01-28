@@ -81,7 +81,7 @@ divbutton:before{
     display: inline-block;
     width: 30px;
     height: 16px;
-    background: url("./img/arrow (1).png") no-repeat center;
+    background: url("./arrow (1).png") no-repeat center;
     background-size: cover;
 
 }
